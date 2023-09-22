@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-# A script that turns on an apache server container
-sudo service apache2 start
